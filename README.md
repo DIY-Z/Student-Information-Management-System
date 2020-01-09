@@ -14,16 +14,16 @@
 
 ### 1.  登录界面
 
-![avatar]([https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/登录界面.png))
+![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/登录界面.png)
 
 ### 2.  修改界面
 
-![[https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87/%E4%BF%AE%E6%94%B9%E7%95%8C%E9%9D%A2.png](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/修改界面.png)]()
+![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/修改界面.png)
 
 ### 3.  删除界面
 
-![[https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87/%E5%88%A0%E9%99%A4%E7%95%8C%E9%9D%A2.png](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/删除界面.png)]()
+![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/删除界面.png)
 
 ### 4.显示界面
 
-![[https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87/%E6%98%BE%E7%A4%BA%E7%95%8C%E9%9D%A2.png](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/显示界面.png)]()
+![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/显示界面.png)
