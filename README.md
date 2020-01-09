@@ -20,35 +20,39 @@
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/登录界面.png)
 
-### 2.  修改界面
+### 2. 添加界面
+
+![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/添加界面.png)
+
+### 3.  修改界面
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/修改界面.png)
 
-### 3.  删除界面
+### 4.  删除界面
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/删除界面.png)
 
-### 4. 显示界面
+### 5. 显示界面
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/显示界面.png)
 
-### 5. 查询界面
+### 6. 查询界面
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/查询界面.png)
 
-### 6. 管理界面（教师模式）
+### 7. 管理界面（教师模式）
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/管理界面（教师模式）.png)
 
-### 7. 学生成绩情况柱状图
+### 8. 学生成绩情况柱状图
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/学生成绩情况柱状图.png)
 
-### 8. 学生成绩情况饼状图
+### 9. 学生成绩情况饼状图
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/学生成绩情况饼状图.png)
 
-### 9. 课程平均成绩柱状图
+### 10. 课程平均成绩柱状图
 
 ![](https://github.com/DIY-Z/Student-Information-Management-System/blob/master/Readme中的图片/课程平均成绩柱状图.png)
 
